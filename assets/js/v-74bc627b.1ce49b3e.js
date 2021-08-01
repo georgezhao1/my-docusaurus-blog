@@ -1,0 +1,1 @@
+(self.webpackChunkcodelink=self.webpackChunkcodelink||[]).push([[5],{988:(e,t,n)=>{"use strict";n.r(t),n.d(t,{data:()=>a});const a={key:"v-74bc627b",path:"/about/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"about/README.md"}},977:(e,t,n)=>{"use strict";n.r(t),n.d(t,{default:()=>a});const a={render:function(e,t){return null}}}}]);
